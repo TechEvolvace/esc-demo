@@ -1,3 +1,2 @@
 # esc-demo
-
-changes by Bryan
+changes made by bryan
